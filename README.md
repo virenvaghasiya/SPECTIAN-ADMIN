@@ -4,7 +4,7 @@ This Android application is the admin part of the application called spectian, T
 * Light/dark mode
 * CRUD operations on every feature (Notice, E-Book, Assignment, Faculty, Gallery)
 # Demo
-[Demo: ]( https://drive.google.com/file/d/104MwoENw8NGS6G1Yeccwff97UKY0oNe0/view?usp=sharing)
+Demo: https://drive.google.com/file/d/104MwoENw8NGS6G1Yeccwff97UKY0oNe0/view?usp=sharing
 # Tech Used
 Software: Android Studio
 
