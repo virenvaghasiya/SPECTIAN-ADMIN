@@ -17,6 +17,6 @@ I'm a about to complete my Bachelor's of I.T Engineering, and also as a side Sto
 * [Papaya Coders](https://www.youtube.com/c/PapayaCoders)
 * [College App Playlist](https://www.youtube.com/watch?v=Ui__yxgrRwQ&list=PL6Rs84MkNq7kjE71tV3iDQdqO7fspmoNN)
 # License & Copyright
-©️ Viren Vaghasiya, spectian
+©️ Viren Vaghasiya, Spectian Admin App
 
 License under the [MIT License](LICENSE).
